@@ -14,8 +14,7 @@ export default {
     darkBlue: "#003459",
     softBlue: "#124E78",
     lightBlue: "#7FB7BE",
-    sand: "#202020",
-
+    sand: "#202020"
   },
   fonts: {
     roboto: "Roboto",
